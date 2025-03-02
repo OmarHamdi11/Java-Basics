@@ -1,0 +1,2 @@
+Hello now we will focus on
+how to deal with output streams
